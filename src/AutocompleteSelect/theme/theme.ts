@@ -58,13 +58,3 @@ export type Theme = {
     color?: string
   }
 }
-
-// export const getColorScheme = (currentTheme: THEME): Theme =>
-//   currentTheme === THEME.DARK ? theme.colors.dark : theme.colors.standard
-
-// export enum THEME {
-//   DARK,
-//   LIGHT,
-//   NEUTRAL,
-//   STANDARD
-// }

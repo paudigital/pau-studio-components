@@ -1,4 +1,3 @@
-// import { mockData } from "../config"
 import { Option } from "../types/option"
 
 export type State = {
